@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\bin\Debug\net7.0\sorted_list.exe
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\bin\Debug\net7.0\sorted_list.deps.json
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\bin\Debug\net7.0\sorted_list.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\bin\Debug\net7.0\sorted_list.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\bin\Debug\net7.0\sorted_list.pdb
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\refint\sorted_list.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.pdb
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\sorted_list.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\sorted_list\obj\Debug\net7.0\ref\sorted_list.dll

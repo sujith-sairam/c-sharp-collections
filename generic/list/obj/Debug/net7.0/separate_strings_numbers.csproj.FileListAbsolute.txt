@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\bin\Debug\net7.0\separate_strings_numbers.exe
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\bin\Debug\net7.0\separate_strings_numbers.deps.json
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\bin\Debug\net7.0\separate_strings_numbers.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\bin\Debug\net7.0\separate_strings_numbers.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\bin\Debug\net7.0\separate_strings_numbers.pdb
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\refint\separate_strings_numbers.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.pdb
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\separate_strings_numbers.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\separate_strings_numbers\obj\Debug\net7.0\ref\separate_strings_numbers.dll

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\bin\Debug\net7.0\odd_even.exe
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\bin\Debug\net7.0\odd_even.deps.json
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\bin\Debug\net7.0\odd_even.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\bin\Debug\net7.0\odd_even.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\bin\Debug\net7.0\odd_even.pdb
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\refint\odd_even.dll
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.pdb
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\odd_even.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c sharp collections\generic\list\odd_even\obj\Debug\net7.0\ref\odd_even.dll
