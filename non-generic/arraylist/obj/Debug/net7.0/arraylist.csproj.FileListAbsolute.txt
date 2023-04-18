@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\bin\Debug\net7.0\arraylist.exe
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\bin\Debug\net7.0\arraylist.deps.json
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\bin\Debug\net7.0\arraylist.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\bin\Debug\net7.0\arraylist.dll
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\bin\Debug\net7.0\arraylist.pdb
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.dll
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\refint\arraylist.dll
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.pdb
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\arraylist.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\arraylist\obj\Debug\net7.0\ref\arraylist.dll

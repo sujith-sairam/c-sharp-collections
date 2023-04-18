@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\c sharp collections\\generic\\dictionary\\dictionary.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\c-sharp-collections\\generic\\dictionary\\dictionary.csproj",
       "projectName": "dictionary",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\c sharp collections\\generic\\dictionary\\dictionary.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\c-sharp-collections\\generic\\dictionary\\dictionary.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\c sharp collections\\generic\\dictionary\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\c-sharp-collections\\generic\\dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

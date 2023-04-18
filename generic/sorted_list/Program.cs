@@ -1,4 +1,4 @@
-﻿// display even list and odd list separately..
+﻿// Store student name with cgpa with help of sorted list..
 using System;
 using System.Collections.Generic;
 
@@ -6,7 +6,8 @@ namespace SortedList{
 
     class MainClass{
         public static void Main( string[] args){
-             var studentCgpa= new SortedList<string, double>();
+            //declaring sorted list 
+            var studentCgpa= new SortedList<string, double>();
             studentCgpa.Add("Kiran",7.81);
             studentCgpa.Add("Bob",8.48);
             studentCgpa.Add("Alice",9.00);
@@ -16,8 +17,9 @@ namespace SortedList{
             Console.WriteLine("3. Remove contact");
             Console.WriteLine("4. Show contact");
             Console.Write("Enter the option: ");
-            int option = Convert.ToInt32(Console.ReadLine());
 
+            //switch works with the given option value
+            int option = Convert.ToInt32(Console.ReadLine());
             switch(option){
                 case 1:
                     Console.Write("Enter the name: \n");

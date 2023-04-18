@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\bin\Debug\net7.0\queue.exe
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\bin\Debug\net7.0\queue.deps.json
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\bin\Debug\net7.0\queue.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\bin\Debug\net7.0\queue.dll
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\bin\Debug\net7.0\queue.pdb
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.dll
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\refint\queue.dll
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.pdb
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\queue.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c-sharp-collections\non-generic\queue\obj\Debug\net7.0\ref\queue.dll
